@@ -1,0 +1,8 @@
+<map id="org.nowireless.vision.runtime.loader.cli.CLILoader" name="org.nowireless.vision.runtime.loader.cli.CLILoader">
+<area shape="rect" id="node2" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1loader_1_1_loader_abstract.html" title="org.nowireless.vision.runtime.loader.\lLoaderAbstract" alt="" coords="967,142,1197,183"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1nowireless_1_1common_1_1_initializable.html" title="org.nowireless.common.Initializable" alt="" coords="613,5,840,32"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1nowireless_1_1common_1_1_logger_providor.html" title="org.nowireless.common.Logger\lProvidor" alt="" coords="240,70,443,111"/>
+<area shape="rect" id="node12" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1loader_1_1_reflection_loader.html" title="org.nowireless.vision.runtime.loader.\lReflectionLoader" alt="" coords="611,107,842,149"/>
+<area shape="rect" id="node7" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1loader_1_1config_1_1_loader_config.html" title="org.nowireless.vision.runtime.loader.config.\lLoaderConfig" alt="" coords="592,287,861,329"/>
+<area shape="rect" id="node8" href="$classorg_1_1nowireless_1_1configstore_1_1_config.html" title="org::nowireless::configstore\l::Config\&lt; LoaderConfig \&gt;" alt="" coords="251,251,431,293"/>
+</map>

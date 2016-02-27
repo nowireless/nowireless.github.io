@@ -1,0 +1,11 @@
+<map id="org.nowireless.vision.api.engine.VisionRuntime" name="org.nowireless.vision.api.engine.VisionRuntime">
+<area shape="rect" id="node11" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1_vision_runtime_abstract.html" title="org.nowireless.vision.runtime.\lVisionRuntimeAbstract" alt="" coords="789,205,981,246"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1nowireless_1_1common_1_1engine_1_1_engine.html" title="org.nowireless.common.engine.\lEngine" alt="" coords="280,74,485,115"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1nowireless_1_1common_1_1_task.html" title="org.nowireless.common.Task" alt="" coords="23,56,214,83"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1nowireless_1_1common_1_1_initializable.html" title="org.nowireless.common.Initializable" alt="" coords="5,107,232,133"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1nowireless_1_1common_1_1_logger_providor.html" title="org.nowireless.common.Logger\lProvidor" alt="" coords="17,158,220,199"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1_frame_updatable.html" title="org.nowireless.vision.api.\lFrameUpdatable" alt="" coords="299,139,466,181"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1_pausable.html" title="org.nowireless.vision.api.\lPausable" alt="" coords="299,205,466,246"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1fps_1_1_f_p_s_source.html" title="org.nowireless.vision.api.fps.\lFPSSource" alt="" coords="289,270,476,311"/>
+<area shape="rect" id="node12" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1standalone_1_1_standalone_vision_engine.html" title="org.nowireless.vision.runtime.standalone.\lStandaloneVisionEngine" alt="" coords="1029,205,1288,246"/>
+</map>

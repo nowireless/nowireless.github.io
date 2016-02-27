@@ -1,0 +1,4 @@
+var classorg_1_1nowireless_1_1vision_1_1runtime_1_1statusupdater_1_1nt_1_1config_1_1_n_t_status_updater_config_store =
+[
+    [ "NTStatusUpdaterConfigStore", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1statusupdater_1_1nt_1_1config_1_1_n_t_status_updater_config_store.html#add5c8fd8ec57c1d9a157148ad84f9467", null ]
+];

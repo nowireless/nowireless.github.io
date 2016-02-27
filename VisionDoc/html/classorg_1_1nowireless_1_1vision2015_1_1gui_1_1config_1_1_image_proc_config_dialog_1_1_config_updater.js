@@ -1,0 +1,4 @@
+var classorg_1_1nowireless_1_1vision2015_1_1gui_1_1config_1_1_image_proc_config_dialog_1_1_config_updater =
+[
+    [ "stateChanged", "classorg_1_1nowireless_1_1vision2015_1_1gui_1_1config_1_1_image_proc_config_dialog_1_1_config_updater.html#a10c8e9b13686b7fb8e63b02a0dbb4456", null ]
+];

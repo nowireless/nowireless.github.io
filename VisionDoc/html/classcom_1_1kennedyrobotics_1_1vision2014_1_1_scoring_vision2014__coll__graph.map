@@ -1,0 +1,6 @@
+<map id="com.kennedyrobotics.vision2014.ScoringVision2014" name="com.kennedyrobotics.vision2014.ScoringVision2014">
+<area shape="rect" id="node2" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1_scoring.html" title="org::nowireless::vision\l::api::Scoring\&lt; SampleVision2014 \&gt;" alt="" coords="548,5,779,47"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1nowireless_1_1common_1_1_initializable.html" title="org.nowireless.common.Initializable" alt="" coords="244,13,471,39"/>
+<area shape="rect" id="node6" href="$enumcom_1_1kennedyrobotics_1_1vision2014_1_1_scoring_vision2014_1_1_side.html" title="com.kennedyrobotics.vision2014.\lScoringVision2014.Side" alt="" coords="556,188,771,229"/>
+<area shape="rect" id="node8" href="$classorg_1_1nowireless_1_1configstore_1_1_config.html" title="org::nowireless::configstore\l::Config\&lt; ScoringVision2014Config \&gt;" alt="" coords="240,253,475,295"/>
+</map>

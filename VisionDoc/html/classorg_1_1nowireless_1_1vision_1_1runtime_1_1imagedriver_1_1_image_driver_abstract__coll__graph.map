@@ -1,0 +1,12 @@
+<map id="org.nowireless.vision.runtime.imagedriver.ImageDriverAbstract" name="org.nowireless.vision.runtime.imagedriver.ImageDriverAbstract">
+<area shape="rect" id="node2" href="$classorg_1_1nowireless_1_1common_1_1engine_1_1impl_1_1_watched_engine_abstact.html" title="org.nowireless.common.engine.impl.\lWatchedEngineAbstact" alt="" coords="887,49,1121,91"/>
+<area shape="rect" id="node3" href="$classorg_1_1nowireless_1_1common_1_1engine_1_1impl_1_1_engine_abstract.html" title="org.nowireless.common.engine.impl.\lEngineAbstract" alt="" coords="556,136,789,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1nowireless_1_1common_1_1engine_1_1_engine.html" title="org.nowireless.common.engine.\lEngine" alt="" coords="281,69,487,111"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1nowireless_1_1common_1_1engine_1_1_watched_engine.html" title="org.nowireless.common.engine.\lWatchedEngine" alt="" coords="570,71,775,112"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1nowireless_1_1common_1_1engine_1_1_engine_watcher.html" title="org.nowireless.common.engine.\lEngineWatcher" alt="" coords="570,5,775,47"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1nowireless_1_1common_1_1_task.html" title="org.nowireless.common.Task" alt="" coords="23,175,214,202"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1nowireless_1_1common_1_1_initializable.html" title="org.nowireless.common.Initializable" alt="" coords="5,74,232,101"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1nowireless_1_1common_1_1_logger_providor.html" title="org.nowireless.common.Logger\lProvidor" alt="" coords="17,7,220,48"/>
+<area shape="rect" id="node13" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1imagedriver_1_1_image_driver.html" title="org.nowireless.vision.api.imagedriver.\lImageDriver" alt="" coords="887,115,1121,156"/>
+<area shape="rect" id="node14" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1_frame_updatable.html" title="org.nowireless.vision.api.\lFrameUpdatable" alt="" coords="921,180,1087,221"/>
+</map>

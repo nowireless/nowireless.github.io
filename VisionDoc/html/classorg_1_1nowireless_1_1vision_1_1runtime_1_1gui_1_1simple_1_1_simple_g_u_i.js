@@ -1,0 +1,27 @@
+var classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i =
+[
+    [ "SimpleGUI", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a81f11e235620149f62fee96735820dec", null ],
+    [ "SimpleGUI", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a090bd95b3e33c183769f4872a9b223e3", null ],
+    [ "addConfigMenuItems", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a4f7262afe93e5724975bcedf1e6b97ba", null ],
+    [ "deinit", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a8f3022c48e974939272ad66d6df749ad", null ],
+    [ "getContentPane", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a215e271521e6ba86ffe97a7a1978c43c", null ],
+    [ "getFrame", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a94b89316422f5781639e021b6d11a5d5", null ],
+    [ "getPauseListener", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#ad5b9d4235c354a8d80bf5420764733c9", null ],
+    [ "init", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a659a8f7716e81e363bd23fff76e50594", null ],
+    [ "isReady", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a604de8a37a000151aef44a54fa9893f0", null ],
+    [ "log", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#afad302386a58fad6db1e60562a18be65", null ],
+    [ "postInit", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a451b14d7de49c3f4ba6fcb1a6159d226", null ],
+    [ "run", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#ac29347004ccd82d05b83f6d2434cdad2", null ],
+    [ "setFrame", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#afeb00902dd94cf23f3fcb35da0ffc48f", null ],
+    [ "setPauseListener", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a4c0244d2492838bee99142f64a5bab3c", null ],
+    [ "updateDebug", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#ae364551e488dd5ed8bcc2684b5ed54ee", null ],
+    [ "updateFps", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a4208cc34a22edb2d9d9247c518f8be82", null ],
+    [ "updateFromeRuntime", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#ab5b5634619c2e552c3af9afe15b20f5d", null ],
+    [ "updateFromProcess", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a15a59b8e98fe218e55a70d8ccf808748", null ],
+    [ "updateProcessed", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#aa230f16e52872f7e9bb042d46dce8b58", null ],
+    [ "updateSource", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a62116e12ee5d68344757a01aca3c0334", null ],
+    [ "updateStatusUpdater", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a065a14c82e77bf81e8fee12726360d7d", null ],
+    [ "frame", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a3f04154f9122d7d5f28a307a430023db", null ],
+    [ "log", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#a6aa01f867de637f4de6caf40943a89b2", null ],
+    [ "pauseListener", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html#adb37fb25a7ebf12d039d38c851a88aa0", null ]
+];

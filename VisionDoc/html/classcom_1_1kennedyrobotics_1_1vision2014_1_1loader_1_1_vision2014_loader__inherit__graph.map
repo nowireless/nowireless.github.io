@@ -1,0 +1,5 @@
+<map id="com.kennedyrobotics.vision2014.loader.Vision2014Loader" name="com.kennedyrobotics.vision2014.loader.Vision2014Loader">
+<area shape="rect" id="node2" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1standalone_1_1_standalone_vision_loader.html" title="org.nowireless.vision.runtime.standalone.\lStandaloneVisionLoader" alt="" coords="5,184,264,225"/>
+<area shape="rect" id="node3" href="$classorg_1_1nowireless_1_1vision_1_1loader_1_1_vision_loader_abstract.html" title="org.nowireless.vision.loader.\lVisionLoaderAbstract" alt="" coords="43,95,227,136"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1loader_1_1_vision_loader.html" title="org.nowireless.vision.api.loader.\lVisionLoader" alt="" coords="32,5,237,47"/>
+</map>

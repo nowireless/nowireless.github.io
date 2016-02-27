@@ -1,0 +1,10 @@
+<map id="org.nowireless.vision2015.Vision2015" name="org.nowireless.vision2015.Vision2015">
+<area shape="rect" id="node3" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1process_1_1_image_process.html" title="org.nowireless.vision.api.process.\lImageProcess" alt="" coords="1005,57,1221,98"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1nowireless_1_1common_1_1_initializable.html" title="org.nowireless.common.Initializable" alt="" coords="589,64,816,91"/>
+<area shape="rect" id="node5" href="$classorg_1_1nowireless_1_1vision2015_1_1targetid_1_1_target_i_d.html" title="org.nowireless.vision2015.targetid.\lTargetID" alt="" coords="1003,582,1223,623"/>
+<area shape="rect" id="node13" href="$classorg_1_1nowireless_1_1vision2015_1_1imgproc_1_1_image_processing.html" title="org.nowireless.vision2015.imgproc.\lImageProcessing" alt="" coords="1001,381,1224,422"/>
+<area shape="rect" id="node7" href="$classorg_1_1nowireless_1_1vision2015_1_1targetid_1_1config_1_1_target_i_d_config.html" title="org.nowireless.vision2015.targetid.config.\lTargetIDConfig" alt="" coords="573,577,832,618"/>
+<area shape="rect" id="node8" href="$classorg_1_1nowireless_1_1configstore_1_1_config.html" title="org::nowireless::configstore\l::Config\&lt; TargetIDConfig \&gt;" alt="" coords="240,511,420,553"/>
+<area shape="rect" id="node17" href="$classorg_1_1nowireless_1_1configstore_1_1_config.html" title="org::nowireless::configstore\l::Config\&lt; ImgProcConfig \&gt;" alt="" coords="240,394,420,435"/>
+<area shape="rect" id="node16" href="$classorg_1_1nowireless_1_1vision2015_1_1imgproc_1_1config_1_1_img_proc_config.html" title="org.nowireless.vision2015.imgproc.config.\lImgProcConfig" alt="" coords="572,351,833,393"/>
+</map>

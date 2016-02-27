@@ -1,0 +1,11 @@
+<map id="org.nowireless.vision.runtime.nt.imageserver.NTImageServer" name="org.nowireless.vision.runtime.nt.imageserver.NTImageServer">
+<area shape="rect" id="node2" href="$classorg_1_1nowireless_1_1common_1_1engine_1_1impl_1_1_engine_abstract.html" title="org.nowireless.common.engine.impl.\lEngineAbstract" alt="" coords="672,137,905,178"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1nowireless_1_1common_1_1engine_1_1_engine.html" title="org.nowireless.common.engine.\lEngine" alt="" coords="334,101,539,142"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1nowireless_1_1common_1_1_task.html" title="org.nowireless.common.Task" alt="" coords="23,56,214,83"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1nowireless_1_1common_1_1_initializable.html" title="org.nowireless.common.Initializable" alt="" coords="5,189,232,216"/>
+<area shape="rect" id="node15" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1nt_1_1image_1_1_n_t_image_abstract.html" title="org.nowireless.vision.runtime.nt.image.\lNTImageAbstract" alt="" coords="313,242,560,283"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1nowireless_1_1common_1_1_logger_providor.html" title="org.nowireless.common.Logger\lProvidor" alt="" coords="17,111,220,153"/>
+<area shape="rect" id="node10" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1nt_1_1imageserver_1_1config_1_1_n_t_image_server_config.html" title="org.nowireless.vision.runtime.nt.imageserver.config.\lNTImageServerConfig" alt="" coords="629,359,948,401"/>
+<area shape="rect" id="node11" href="$classorg_1_1nowireless_1_1configstore_1_1_config.html" title="org::nowireless::configstore\l::Config\&lt; NTImageServerConfig \&gt;" alt="" coords="330,386,543,427"/>
+<area shape="rect" id="node14" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1nt_1_1image_1_1_n_t_image_sender.html" title="org.nowireless.vision.runtime.nt.image.\lNTImageSender" alt="" coords="665,242,912,283"/>
+</map>

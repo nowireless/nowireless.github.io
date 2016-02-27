@@ -1,0 +1,9 @@
+<map id="org.nowireless.vision.runtime.tools.ntimageviewer.NTImageViewer" name="org.nowireless.vision.runtime.tools.ntimageviewer.NTImageViewer">
+<area shape="rect" id="node2" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1nt_1_1image_1_1_n_t_image_receiver.html" title="org.nowireless.vision.runtime.nt.image.\lNTImageReceiver" alt="" coords="983,386,1230,427"/>
+<area shape="rect" id="node3" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1nt_1_1image_1_1_n_t_image_abstract.html" title="org.nowireless.vision.runtime.nt.image.\lNTImageAbstract" alt="" coords="589,283,836,325"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1nowireless_1_1common_1_1_initializable.html" title="org.nowireless.common.Initializable" alt="" coords="272,311,499,337"/>
+<area shape="rect" id="node13" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1_j_video_panel.html" title="org.nowireless.vision.runtime.gui.\lJVideoPanel" alt="" coords="606,150,819,191"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1nowireless_1_1common_1_1_logger_providor.html" title="org.nowireless.common.Logger\lProvidor" alt="" coords="284,229,487,270"/>
+<area shape="rect" id="node11" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1tools_1_1ntimageviewer_1_1_n_t_image_viewer_frame.html" title="org.nowireless.vision.runtime.tools.ntimageviewer.\lNTImageViewerFrame" alt="" coords="952,109,1261,150"/>
+<area shape="rect" id="node17" href="$classorg_1_1nowireless_1_1common_1_1gui_1_1_buffered_image_cache.html" title="org.nowireless.common.gui.\lBufferedImageCache" alt="" coords="293,163,477,205"/>
+</map>

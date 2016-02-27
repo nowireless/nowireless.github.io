@@ -1,0 +1,5 @@
+<map id="org.nowireless.vision.api.Pausable" name="org.nowireless.vision.api.Pausable">
+<area shape="rect" id="node2" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1engine_1_1_vision_runtime.html" title="org.nowireless.vision.api.engine.\lVisionRuntime" alt="" coords="31,95,239,136"/>
+<area shape="rect" id="node3" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1_vision_runtime_abstract.html" title="org.nowireless.vision.runtime.\lVisionRuntimeAbstract" alt="" coords="39,184,231,225"/>
+<area shape="rect" id="node4" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1standalone_1_1_standalone_vision_engine.html" title="org.nowireless.vision.runtime.standalone.\lStandaloneVisionEngine" alt="" coords="5,273,264,315"/>
+</map>

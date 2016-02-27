@@ -1,0 +1,5 @@
+<map id="org.nowireless.vision.runtime.loader.gui.GUILoader" name="org.nowireless.vision.runtime.loader.gui.GUILoader">
+<area shape="rect" id="node2" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1loader_1_1_loader_abstract.html" title="org.nowireless.vision.runtime.loader.\lLoaderAbstract" alt="" coords="122,95,353,136"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1nowireless_1_1common_1_1_initializable.html" title="org.nowireless.common.Initializable" alt="" coords="5,13,232,39"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1nowireless_1_1common_1_1_logger_providor.html" title="org.nowireless.common.Logger\lProvidor" alt="" coords="256,5,459,47"/>
+</map>

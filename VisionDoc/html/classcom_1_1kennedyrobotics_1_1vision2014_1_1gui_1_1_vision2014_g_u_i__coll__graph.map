@@ -1,0 +1,18 @@
+<map id="com.kennedyrobotics.vision2014.gui.Vision2014GUI" name="com.kennedyrobotics.vision2014.gui.Vision2014GUI">
+<area shape="rect" id="node2" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html" title="org.nowireless.vision.runtime.gui.simple.\lSimpleGUI" alt="" coords="1764,999,2019,1041"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1gui_1_1_g_u_i.html" title="org.nowireless.vision.api.gui.GUI" alt="" coords="921,1135,1131,1161"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1nowireless_1_1common_1_1_initializable.html" title="org.nowireless.common.Initializable" alt="" coords="541,1011,767,1037"/>
+<area shape="rect" id="node14" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1_j_video_panel.html" title="org.nowireless.vision.runtime.gui.\lJVideoPanel" alt="" coords="919,901,1133,942"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1nowireless_1_1common_1_1_logger_providor.html" title="org.nowireless.common.Logger\lProvidor" alt="" coords="553,1113,755,1154"/>
+<area shape="rect" id="node13" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_frame_1_1_f_p_s_update.html" title="org.nowireless.vision.runtime.gui.simple.\lSimpleFrame.FPSUpdate" alt="" coords="899,733,1153,774"/>
+<area shape="rect" id="node31" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_frame_1_1_pause_updater.html" title="org.nowireless.vision.runtime.gui.simple.\lSimpleFrame.PauseUpdater" alt="" coords="899,667,1153,709"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1_frame_updatable.html" title="org.nowireless.vision.api.\lFrameUpdatable" alt="" coords="571,1178,737,1219"/>
+<area shape="rect" id="node10" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_frame.html" title="org.nowireless.vision.runtime.gui.simple.\lSimpleFrame" alt="" coords="1376,695,1631,737"/>
+<area shape="rect" id="node20" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1_image_driver_selector_dialog.html" title="org.nowireless.vision.runtime.gui.\lImageDriverSelectorDialog" alt="" coords="919,455,1133,497"/>
+<area shape="rect" id="node35" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1_process_selector_dialog.html" title="org.nowireless.vision.runtime.gui.\lProcessSelectorDialog" alt="" coords="919,602,1133,643"/>
+<area shape="rect" id="node33" href="$classorg_1_1nowireless_1_1common_1_1gui_1_1_j_boolean_box.html" title="org.nowireless.common.gui.\lJBooleanBox" alt="" coords="934,270,1118,311"/>
+<area shape="rect" id="node18" href="$classorg_1_1nowireless_1_1common_1_1gui_1_1_buffered_image_cache.html" title="org.nowireless.common.gui.\lBufferedImageCache" alt="" coords="562,945,746,986"/>
+<area shape="rect" id="node23" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1config_1_1_vision_runtime_config.html" title="org.nowireless.vision.runtime.config.\lVisionRuntimeConfig" alt="" coords="539,703,769,745"/>
+<area shape="rect" id="node24" href="$classorg_1_1nowireless_1_1configstore_1_1_config.html" title="org::nowireless::configstore\l::Config\&lt; VisionRuntimeConfig \&gt;" alt="" coords="240,703,451,745"/>
+<area shape="rect" id="node28" href="$enumorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_frame_1_1_frame_selection.html" title="org.nowireless.vision.runtime.gui.simple.\lSimpleFrame.FrameSelection" alt="" coords="899,1018,1153,1059"/>
+</map>

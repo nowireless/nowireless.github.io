@@ -1,0 +1,7 @@
+<map id="org.nowireless.vision.api.fps.FPSSource" name="org.nowireless.vision.api.fps.FPSSource">
+<area shape="rect" id="node2" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1engine_1_1_vision_runtime.html" title="org.nowireless.vision.api.engine.\lVisionRuntime" alt="" coords="243,8,451,49"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1fps_1_1_f_p_s.html" title="org.nowireless.vision.api.fps.FPS" alt="" coords="240,75,453,102"/>
+<area shape="rect" id="node3" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1_vision_runtime_abstract.html" title="org.nowireless.vision.runtime.\lVisionRuntimeAbstract" alt="" coords="512,5,704,47"/>
+<area shape="rect" id="node4" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1standalone_1_1_standalone_vision_engine.html" title="org.nowireless.vision.runtime.standalone.\lStandaloneVisionEngine" alt="" coords="763,5,1021,47"/>
+<area shape="rect" id="node6" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1fps_1_1_moving_average_f_p_s.html" title="org.nowireless.vision.runtime.fps.\lMovingAverageFPS" alt="" coords="501,71,715,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.nowireless.vision.runtime.tools.threshold.ThresholdUI" name="org.nowireless.vision.runtime.tools.threshold.ThresholdUI">
+<area shape="rect" id="node4" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1_j_video_panel.html" title="org.nowireless.vision.runtime.gui.\lJVideoPanel" alt="" coords="589,275,803,317"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1nowireless_1_1common_1_1_logger_providor.html" title="org.nowireless.common.Logger\lProvidor" alt="" coords="284,258,487,299"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1nowireless_1_1common_1_1_initializable.html" title="org.nowireless.common.Initializable" alt="" coords="272,324,499,351"/>
+<area shape="rect" id="node11" href="$classorg_1_1nowireless_1_1common_1_1gui_1_1_buffered_image_cache.html" title="org.nowireless.common.gui.\lBufferedImageCache" alt="" coords="293,193,477,234"/>
+</map>

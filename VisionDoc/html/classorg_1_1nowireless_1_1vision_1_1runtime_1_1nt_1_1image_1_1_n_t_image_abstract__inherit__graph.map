@@ -1,0 +1,7 @@
+<map id="org.nowireless.vision.runtime.nt.image.NTImageAbstract" name="org.nowireless.vision.runtime.nt.image.NTImageAbstract">
+<area shape="rect" id="node4" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1nt_1_1image_1_1_n_t_image_receiver.html" title="org.nowireless.vision.runtime.nt.image.\lNTImageReceiver" alt="" coords="575,5,821,47"/>
+<area shape="rect" id="node6" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1nt_1_1image_1_1_n_t_image_sender.html" title="org.nowireless.vision.runtime.nt.image.\lNTImageSender" alt="" coords="575,71,821,112"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1nowireless_1_1common_1_1_initializable.html" title="org.nowireless.common.Initializable" alt="" coords="5,17,232,43"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1nowireless_1_1common_1_1_logger_providor.html" title="org.nowireless.common.Logger\lProvidor" alt="" coords="17,68,220,109"/>
+<area shape="rect" id="node5" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1tools_1_1ntimageviewer_1_1_n_t_image_viewer.html" title="org.nowireless.vision.runtime.tools.ntimageviewer.\lNTImageViewer" alt="" coords="869,5,1179,47"/>
+</map>
