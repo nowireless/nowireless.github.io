@@ -1,5 +1,0 @@
-var namespaceorg_1_1nowireless_1_1vision_1_1runtime_1_1statusupdater_1_1nt_1_1config =
-[
-    [ "NTStatusUpdaterConfig", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1statusupdater_1_1nt_1_1config_1_1_n_t_status_updater_config.html", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1statusupdater_1_1nt_1_1config_1_1_n_t_status_updater_config" ],
-    [ "NTStatusUpdaterConfigStore", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1statusupdater_1_1nt_1_1config_1_1_n_t_status_updater_config_store.html", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1statusupdater_1_1nt_1_1config_1_1_n_t_status_updater_config_store" ]
-];

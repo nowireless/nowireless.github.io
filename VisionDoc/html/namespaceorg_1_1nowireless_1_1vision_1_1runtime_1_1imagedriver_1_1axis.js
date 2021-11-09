@@ -1,5 +1,0 @@
-var namespaceorg_1_1nowireless_1_1vision_1_1runtime_1_1imagedriver_1_1axis =
-[
-    [ "config", "namespaceorg_1_1nowireless_1_1vision_1_1runtime_1_1imagedriver_1_1axis_1_1config.html", "namespaceorg_1_1nowireless_1_1vision_1_1runtime_1_1imagedriver_1_1axis_1_1config" ],
-    [ "AxisCameraImageDriver", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1imagedriver_1_1axis_1_1_axis_camera_image_driver.html", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1imagedriver_1_1axis_1_1_axis_camera_image_driver" ]
-];

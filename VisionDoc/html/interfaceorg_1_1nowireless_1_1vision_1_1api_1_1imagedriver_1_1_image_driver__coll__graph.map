@@ -1,7 +1,0 @@
-<map id="org.nowireless.vision.api.imagedriver.ImageDriver" name="org.nowireless.vision.api.imagedriver.ImageDriver">
-<area shape="rect" id="node2" href="$interfaceorg_1_1nowireless_1_1common_1_1engine_1_1_watched_engine.html" title="org.nowireless.common.engine.\lWatchedEngine" alt="" coords="533,74,739,115"/>
-<area shape="rect" id="node3" href="$interfaceorg_1_1nowireless_1_1common_1_1engine_1_1_engine.html" title="org.nowireless.common.engine.\lEngine" alt="" coords="280,74,485,115"/>
-<area shape="rect" id="node5" href="$interfaceorg_1_1nowireless_1_1common_1_1_task.html" title="org.nowireless.common.Task" alt="" coords="23,56,214,83"/>
-<area shape="rect" id="node6" href="$interfaceorg_1_1nowireless_1_1common_1_1_initializable.html" title="org.nowireless.common.Initializable" alt="" coords="5,107,232,133"/>
-<area shape="rect" id="node7" href="$interfaceorg_1_1nowireless_1_1common_1_1_logger_providor.html" title="org.nowireless.common.Logger\lProvidor" alt="" coords="17,158,220,199"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="org.nowireless.common.engine.impl.EngineWatcherAbstract" name="org.nowireless.common.engine.impl.EngineWatcherAbstract">
-<area shape="rect" id="node10" href="$classorg_1_1nowireless_1_1common_1_1engine_1_1impl_1_1_watched_engine_abstact_1_1_internal_thread_watcher.html" title="org.nowireless.common.engine.impl.\lWatchedEngineAbstact.InternalThread\lWatcher" alt="" coords="1096,93,1340,149"/>
-<area shape="rect" id="node2" href="$classorg_1_1nowireless_1_1common_1_1engine_1_1impl_1_1_engine_abstract.html" title="org.nowireless.common.engine.impl.\lEngineAbstract" alt="" coords="533,67,767,109"/>
-<area shape="rect" id="node4" href="$interfaceorg_1_1nowireless_1_1common_1_1engine_1_1_engine.html" title="org.nowireless.common.engine.\lEngine" alt="" coords="280,99,485,141"/>
-<area shape="rect" id="node9" href="$interfaceorg_1_1nowireless_1_1common_1_1engine_1_1_engine_watcher.html" title="org.nowireless.common.engine.\lEngineWatcher" alt="" coords="547,133,753,174"/>
-<area shape="rect" id="node6" href="$interfaceorg_1_1nowireless_1_1common_1_1_task.html" title="org.nowireless.common.Task" alt="" coords="23,56,214,83"/>
-<area shape="rect" id="node7" href="$interfaceorg_1_1nowireless_1_1common_1_1_initializable.html" title="org.nowireless.common.Initializable" alt="" coords="5,107,232,133"/>
-<area shape="rect" id="node8" href="$interfaceorg_1_1nowireless_1_1common_1_1_logger_providor.html" title="org.nowireless.common.Logger\lProvidor" alt="" coords="17,158,220,199"/>
-</map>

@@ -1,4 +1,0 @@
-var classorg_1_1nowireless_1_1vision_1_1runtime_1_1nt_1_1imageserver_1_1config_1_1_n_t_image_server_config_store =
-[
-    [ "NTImageServerConfigStore", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1nt_1_1imageserver_1_1config_1_1_n_t_image_server_config_store.html#a1e9e92936028f54c417dd6c9eaffe768", null ]
-];

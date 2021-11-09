@@ -1,6 +1,0 @@
-<map id="org.nowireless.vision2015.gui.config.ImageProcConfigPopup" name="org.nowireless.vision2015.gui.config.ImageProcConfigPopup">
-<area shape="rect" id="node2" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1gui_1_1_config_popup.html" title="org.nowireless.vision.api.gui.\lConfigPopup" alt="" coords="985,46,1172,87"/>
-<area shape="rect" id="node5" href="$classorg_1_1nowireless_1_1vision2015_1_1gui_1_1config_1_1_image_proc_config_dialog.html" title="org.nowireless.vision2015.gui.config.\lImageProcConfigDialog" alt="" coords="963,210,1195,251"/>
-<area shape="rect" id="node10" href="$classorg_1_1nowireless_1_1vision2015_1_1imgproc_1_1config_1_1_img_proc_config.html" title="org.nowireless.vision2015.imgproc.config.\lImgProcConfig" alt="" coords="572,331,833,373"/>
-<area shape="rect" id="node11" href="$classorg_1_1nowireless_1_1configstore_1_1_config.html" title="org::nowireless::configstore\l::Config\&lt; ImgProcConfig \&gt;" alt="" coords="240,253,420,294"/>
-</map>

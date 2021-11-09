@@ -1,5 +1,0 @@
-var namespaceorg_1_1nowireless_1_1vision_1_1runtime_1_1tools_1_1ntimageviewer =
-[
-    [ "NTImageViewer", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1tools_1_1ntimageviewer_1_1_n_t_image_viewer.html", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1tools_1_1ntimageviewer_1_1_n_t_image_viewer" ],
-    [ "NTImageViewerFrame", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1tools_1_1ntimageviewer_1_1_n_t_image_viewer_frame.html", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1tools_1_1ntimageviewer_1_1_n_t_image_viewer_frame" ]
-];

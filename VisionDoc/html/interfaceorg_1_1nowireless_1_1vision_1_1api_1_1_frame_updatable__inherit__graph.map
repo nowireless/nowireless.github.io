@@ -1,8 +1,0 @@
-<map id="org.nowireless.vision.api.FrameUpdatable" name="org.nowireless.vision.api.FrameUpdatable">
-<area shape="rect" id="node2" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1engine_1_1_vision_runtime.html" title="org.nowireless.vision.api.engine.\lVisionRuntime" alt="" coords="221,8,429,49"/>
-<area shape="rect" id="node5" href="$interfaceorg_1_1nowireless_1_1vision_1_1api_1_1gui_1_1_g_u_i.html" title="org.nowireless.vision.api.gui.GUI" alt="" coords="220,75,429,102"/>
-<area shape="rect" id="node3" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1_vision_runtime_abstract.html" title="org.nowireless.vision.runtime.\lVisionRuntimeAbstract" alt="" coords="509,5,701,47"/>
-<area shape="rect" id="node4" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1standalone_1_1_standalone_vision_engine.html" title="org.nowireless.vision.runtime.standalone.\lStandaloneVisionEngine" alt="" coords="780,5,1039,47"/>
-<area shape="rect" id="node6" href="$classorg_1_1nowireless_1_1vision_1_1runtime_1_1gui_1_1simple_1_1_simple_g_u_i.html" title="org.nowireless.vision.runtime.gui.simple.\lSimpleGUI" alt="" coords="477,71,732,112"/>
-<area shape="rect" id="node7" href="$classcom_1_1kennedyrobotics_1_1vision2014_1_1gui_1_1_vision2014_g_u_i.html" title="com.kennedyrobotics.vision2014.gui.\lVision2014GUI" alt="" coords="792,71,1027,112"/>
-</map>

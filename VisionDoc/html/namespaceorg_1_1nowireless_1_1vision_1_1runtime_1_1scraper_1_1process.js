@@ -1,4 +1,0 @@
-var namespaceorg_1_1nowireless_1_1vision_1_1runtime_1_1scraper_1_1process =
-[
-    [ "ProcessScraper", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1scraper_1_1process_1_1_process_scraper.html", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1scraper_1_1process_1_1_process_scraper" ]
-];

@@ -1,5 +1,0 @@
-<map id="org.nowireless.mstore.mcore.MStoreMConfColl" name="org.nowireless.mstore.mcore.MStoreMConfColl">
-<area shape="rect" id="node2" href="$classorg_1_1nowireless_1_1mstore_1_1store_1_1_coll.html" title="org::nowireless::mstore\l::store::Coll\&lt; MStoreMConf \&gt;" alt="" coords="6,184,198,225"/>
-<area shape="rect" id="node3" href="$classorg_1_1nowireless_1_1mstore_1_1store_1_1_coll_abstract.html" title="org::nowireless::mstore\l::store::CollAbstract\&lt; E \&gt;" alt="" coords="17,95,187,136"/>
-<area shape="rect" id="node4" href="$interfaceorg_1_1nowireless_1_1mstore_1_1store_1_1_coll_interface.html" title="org::nowireless::mstore\l::store::CollInterface\&lt; E \&gt;" alt="" coords="17,5,187,47"/>
-</map>

@@ -1,4 +1,0 @@
-var namespaceorg_1_1nowireless_1_1vision_1_1runtime_1_1tools_1_1threshold =
-[
-    [ "ThresholdUI", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1tools_1_1threshold_1_1_threshold_u_i.html", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1tools_1_1threshold_1_1_threshold_u_i" ]
-];

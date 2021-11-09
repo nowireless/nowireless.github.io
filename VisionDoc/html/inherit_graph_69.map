@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$interfaceorg_1_1nowireless_1_1mstore_1_1store_1_1_driver.html" title="org.nowireless.mstore.store.\lDriver" alt="" coords="5,5,192,47"/>
-<area shape="rect" id="node2" href="$classorg_1_1nowireless_1_1mstore_1_1store_1_1_driver_abstract.html" title="org.nowireless.mstore.store.\lDriverAbstract" alt="" coords="240,5,427,47"/>
-<area shape="rect" id="node3" href="$classorg_1_1nowireless_1_1mstore_1_1store_1_1_driver_flatfile.html" title="org.nowireless.mstore.store.\lDriverFlatfile" alt="" coords="475,5,661,47"/>
-</map>

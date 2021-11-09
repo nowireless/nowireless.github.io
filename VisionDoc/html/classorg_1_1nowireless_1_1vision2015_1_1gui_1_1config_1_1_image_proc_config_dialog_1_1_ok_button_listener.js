@@ -1,4 +1,0 @@
-var classorg_1_1nowireless_1_1vision2015_1_1gui_1_1config_1_1_image_proc_config_dialog_1_1_ok_button_listener =
-[
-    [ "actionPerformed", "classorg_1_1nowireless_1_1vision2015_1_1gui_1_1config_1_1_image_proc_config_dialog_1_1_ok_button_listener.html#aabe562ef478095567134ebb36cfbe31f", null ]
-];

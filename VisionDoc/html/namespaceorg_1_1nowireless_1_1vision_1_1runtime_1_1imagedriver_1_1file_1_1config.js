@@ -1,5 +1,0 @@
-var namespaceorg_1_1nowireless_1_1vision_1_1runtime_1_1imagedriver_1_1file_1_1config =
-[
-    [ "FileImageDriverConfig", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1imagedriver_1_1file_1_1config_1_1_file_image_driver_config.html", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1imagedriver_1_1file_1_1config_1_1_file_image_driver_config" ],
-    [ "FileImageDriverConfigStore", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1imagedriver_1_1file_1_1config_1_1_file_image_driver_config_store.html", "classorg_1_1nowireless_1_1vision_1_1runtime_1_1imagedriver_1_1file_1_1config_1_1_file_image_driver_config_store" ]
-];
